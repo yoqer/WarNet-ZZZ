@@ -13,8 +13,10 @@ __________________________________
 
 
 
-[**•Motor:**]( https://github.com/yoqer/WarNet-Cohete/blob/estudios/zupez_zohete_paper_2.md)
+[***•Motor:***]( https://github.com/yoqer/WarNet-Cohete/blob/estudios/zupez_zohete_paper_2.md)
+ .     [(Arquitectura)](https://github.com/yoqer/WarNet-Cohete/blob/estudios/zupez_zohete_arquitectura_1.md)
 
+ 
 
 -AZero [Zuper ZoniCo](https://github.com/yoqer/WarNet-Cohete/blob/estudios/diseno_nave_hipersonica_orbital.md) (2.000°C)
 
@@ -32,7 +34,7 @@ __________________________________
 
 
 
-*•Aleaccion:*
+***•Aleaccion:***
 
 -[Grafeno Antiradar](https://github.com/yoqer/WarNet-Radar/blob/main/AntiRadarGrafeno.md) (Experimental).
 
