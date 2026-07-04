@@ -36,6 +36,11 @@ __________________________________
 
 ***•Aleaccion:***
 
+
+-[PVC - Plastico Duro](https://github.com/yoqer/WarNet-Cohete/blob/estudios/guia_montaje_mini_cohete.md)
+
+
 -[Grafeno Antiradar](https://github.com/yoqer/WarNet-Radar/blob/main/AntiRadarGrafeno.md) (Experimental).
+
 
 -AeroEspacial.
