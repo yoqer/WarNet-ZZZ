@@ -1,6 +1,6 @@
 # WarNet-ZZZ
 
-ZupeZ-Zohete  /  Mini Cohete ZZZ.
+ZupeZ-Zohete  /  [Mini Cohete](https://github.com/yoqer/WarNet-Cohete/blob/estudios/guia_montaje_mini_cohete.md) **ZZZ**.
 
 
 __________________________________
