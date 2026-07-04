@@ -28,12 +28,12 @@ __________________________________
 
 
 
-**•Turbina:**
+***•Turbina:***
 
 
 
-**•Aleaccion:**
+*•Aleaccion:*
 
--[Grafeno Antiradar](https://github.com/yoqer/WarNet-Radar/blob/main/AntiRadarGrafeno.md) Experimental.
+-[Grafeno Antiradar](https://github.com/yoqer/WarNet-Radar/blob/main/AntiRadarGrafeno.md) (Experimental).
 
 -AeroEspacial.
