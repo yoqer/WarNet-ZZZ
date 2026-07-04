@@ -6,7 +6,7 @@ ZupeZ-Zohete  /  Mini Cohete ZZZ.
 __________________________________
 
 
-## ZupeZ-Zohete 
+## [ZupeZ-Zohete](https://github.com/yoqer/WarNet-Cohete/tree/estudios)
 
 
 __________________________________
