@@ -1,8 +1,8 @@
-# Estudio técnico en Markdown: grafeno portugués, impresión 3D y diseño conceptual de recubrimiento funcional
+# Estudio técnico impresión 3D con grafeno y diseño conceptual de recubrimiento funcional.
 
 > **Nota de alcance**
 >
-> Este documento resume información pública y abierta sobre el material desarrollado por **GTechPlasma** y su posible integración en fabricación aditiva y recubrimientos funcionales. **No incluye instrucciones para fabricar sistemas furtivos, reducir deliberadamente la detectabilidad militar ni replicar materiales clasificados**. El diseño propuesto se enfoca en **recubrimientos funcionales civiles**: apantallamiento electromagnético, disipación electrostática, mejora superficial y plataformas de ensayo EMC.
+> Este documento resume información pública y abierta sobre el material desarrollado por **GTechPlasma** y su posible integración en fabricación aditiva y recubrimientos funcionales. **No incluye instrucciones para fabricar sistemas furtivos ni reducir deliberadamente la detectabilidad militar**. El diseño propuesto se enfoca en **recubrimientos funcionales civiles**: apantallamiento electromagnético, disipación electrostática, mejora superficial y plataformas de ensayo EMC.
 
 ---
 
