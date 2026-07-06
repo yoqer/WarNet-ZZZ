@@ -10,7 +10,13 @@
 
 La información pública disponible indica que **GTechPlasma** desarrolla materiales basados en grafeno mediante una plataforma de **plasma de microondas** capaz de producir grafeno y derivados ajustando el proceso a nivel atómico. Según las fuentes periodísticas y corporativas, el material actual se obtiene como **polvo negro muy ligero**, con la intención de evolucionar a **recubrimientos y pinturas** aplicables sobre superficies. La industrialización estaría vinculada a **Plasmaphene**, empresa portuguesa orientada a llevar grafeno y derivados a aplicaciones de coatings, polímeros y superficies. [Euronews](https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence) [Innovation News Network](https://www.innovationnewsnetwork.com/portugal-developing-graphene-materials-for-stealth-technology/71158/) [Plasmaphene](https://plasmaphene.com/)
 
-Desde la perspectiva de fabricación aditiva, el encaje más realista no es imprimir “grafeno puro”, sino integrar este tipo de material en una de dos rutas: **(a)** como aditivo funcional en una matriz polimérica imprimible o **(b)** como **recubrimiento post-impresión** sobre una pieza ya fabricada. En la práctica industrial, la segunda vía suele ser la más madura cuando el material activo llega en polvo y todavía no existe un filamento o resina comercial estable. [Springer Link](https://link.springer.com/article/10.1186/s42252-021-00020-6) [Plasmaphene](https://plasmaphene.com/)
+Desde la perspectiva de fabricación aditiva, el encaje más realista no es imprimir “grafeno puro”, sino integrar este tipo de material en una de dos rutas:
+
+**(a)** como aditivo funcional en una matriz polimérica imprimible.
+
+**(b)** como **recubrimiento post-impresión** sobre una pieza ya fabricada.
+
+En la práctica industrial, la segunda vía suele ser la más madura cuando el material activo llega en polvo y todavía no existe un filamento o resina comercial estable. [Springer Link](https://link.springer.com/article/10.1186/s42252-021-00020-6) [Plasmaphene](https://plasmaphene.com/)
 
 ---
 
