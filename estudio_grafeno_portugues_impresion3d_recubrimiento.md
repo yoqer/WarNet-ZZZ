@@ -243,10 +243,9 @@ Mi recomendación técnica, si el objetivo es desarrollar un prototipo serio, es
 
 ---
 
-## 11. Siguiente paso recomendado
+## 11. -**Matriz de selección de polímero base** para PA12 / TPU / PETGb / otros.
 
-Si quieres, el siguiente paso útil es que convierta este documento en una **versión más práctica para I+D civil**, por ejemplo:
+-**Esquema visual de capas del recubrimiento**;
 
-- una **matriz de selección de polímero base** para PA12 / TPU / PETG;
-- un **esquema visual de capas del recubrimiento**;
-- o una **tabla comparativa de riesgos técnicos**: dispersión, adherencia, humedad, curado, desgaste y validación EMC.
+
+- **Tabla comparativa de riesgos técnicos**: dispersión, adherencia, humedad, curado, desgaste y validación EMC.
