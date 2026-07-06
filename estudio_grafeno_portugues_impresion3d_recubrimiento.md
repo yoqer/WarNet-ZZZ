@@ -249,7 +249,7 @@ Mi recomendación técnica, si el objetivo es desarrollar un prototipo serio, es
 
 ---
 
-## 11. -[**Matriz de selección de polímero base**]() para PA12 / TPU / PETGb / otros].
+## 11. -[**Matriz para la selección de polímeros base**]() para PA12 / TPU / PETGb / Otros].
 
 
 
